@@ -84,7 +84,7 @@ form.addEventListener('submit', function(e) {
 
 ### Manual Setup
 
-If you want to load hCoptcha directly instead of using web3forms proxy, make sure you use the following **sitekey** for free plans. You can set your own site key and secret key on all paid plans,&#x20;
+If you want to load hCaptcha directly instead of using web3forms proxy, make sure you use the following **sitekey** for free plans. You can set your own site key and secret key on all paid plans,&#x20;
 
 ```javascript
 // hCaptcha Site Key for Web3Forms
